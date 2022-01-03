@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simanchal Pattanayak</h1>
 <h3 align="center">A passionate frontend developer from India ♥️</h3>
 
-
+<img align="right" alt="Coding" width="290" src="https://github.com/SimanchalPattanayak/SimanchalPattanayak/blob/main/giphy.gif">
 
 - 📫 How to reach me **psimanchal001@gmail.com**
 
