@@ -1,3 +1,6 @@
+![MasterHead](https://github.com/SimanchalPattanayak/SimanchalPattanayak/blob/main/Untitled%20design.png)
+
+
 <h1 align="center">Hi 👋, I'm Simanchal Pattanayak</h1>
 <h3 align="center">A passionate frontend developer from India ♥️</h3>
 
