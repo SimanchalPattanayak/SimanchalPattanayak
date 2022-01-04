@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/SimanchalPattanayak/SimanchalPattanayak/blob/main/Untitled%20design%20(1).png)
+<!--![MasterHead](https://github.com/SimanchalPattanayak/SimanchalPattanayak/blob/main/Untitled%20design%20(1).png)-->
 
 
 <h1 align="center">Hi 👋, I'm Simanchal Pattanayak</h1>
