@@ -1,4 +1,4 @@
-<!--![MasterHead](https://github.com/SimanchalPattanayak/SimanchalPattanayak/blob/main/Untitled%20design%20(1).png)-->
+![MasterHead](https://github.com/SimanchalPattanayak/SimanchalPattanayak/blob/main/Red%20and%20Black%20Dark%20Gamer%20Sports%20YouTube%20Channel%20Art%20(2048%20x%201152%20px)%20(1280%20x%20340%20px).png)
 
 
 <h1 align="center">Hi 👋, I'm Simanchal Pattanayak</h1>
